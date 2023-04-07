@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# my todo list
+TODO.txt
+
+# my test files
+*test.py
+
+# text files containing api keys
+*.txt
+
+# development files
+dev_files/
